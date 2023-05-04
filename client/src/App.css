@@ -1,0 +1,47 @@
+.blocklogo{
+  text-decoration: none;
+  color:rgb(6 182 212);
+}
+.blocklogo:hover{
+  color:rgb(6 182 212);
+}
+
+.logo{
+  text-align: center;
+  color:#00b3ca;
+ 
+
+}
+
+.videoTag{
+
+  z-index: -1;
+  position: fixed; 
+  width: 100%;
+  
+  
+
+  
+  
+  
+}
+
+.account-id{
+  color:white;  
+
+}
+
+.shareicon{
+  margin-right: 10px;
+  
+}
+
+
+.sharebtn{
+  font-weight: bold;
+  
+
+}
+
+
+
